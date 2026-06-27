@@ -60,7 +60,7 @@
 
 ## 🎥 Dashboard Demo
 
-![Dashboard Demo](E:\Data Analysis\Project Videos\Motorola_Sales_Dashboard.mp4)
+![Dashboard Demo](E:\Data Analysis\Project Videos)
 
 
 ## 🛠️ Tools Used
