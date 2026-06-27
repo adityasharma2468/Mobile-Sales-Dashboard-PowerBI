@@ -58,6 +58,11 @@
 | iPhone 11 | 51,520,221 | 1,263 |
 | Galaxy A51 | 50,762,059 | 1,236 |
 
+## 🎥 Dashboard Demo
+
+![Dashboard Demo](E:\Data Analysis\Project Videos\Motorola_Sales_Dashboard.mp4)
+
+
 ## 🛠️ Tools Used
 
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
