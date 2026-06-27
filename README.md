@@ -60,7 +60,7 @@
 
 ## 🎥 Dashboard Demo
 
-![Dashboard Demo]("./Overview-dashboard.png")
+![Dashboard Demo](./Overview-dashboard.png)
 
 
 ## 🛠️ Tools Used
