@@ -62,13 +62,12 @@
 
 ![Dashboard Demo](./Overview-dashboard.png)
 
-
 ## 🛠️ Tools Used
 
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-FF6B6B?style=flat)
-Overview Dashboard "C:\Users\aditya\Downloads\Overview Dashboard.pdf"
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ## 📫 Contact
 
