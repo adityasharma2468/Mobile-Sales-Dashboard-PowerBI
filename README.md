@@ -63,6 +63,13 @@
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-FF6B6B?style=flat)
+Overview Dashboard "C:\Users\aditya\Downloads\Overview Dashboard.pdf"
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-kumar-sharma)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adityajjkl773975@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/adisharma-zx)
 
 ## 🎓 Learning Source
 Learned from **Satish Dhawale Sir**
