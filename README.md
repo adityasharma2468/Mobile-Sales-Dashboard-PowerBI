@@ -60,7 +60,7 @@
 
 ## 🎥 Dashboard Demo
 
-![Dashboard Demo]("C:\Users\aditya\Pictures\Screenshots\Screenshot 2026-06-27 145418.png")
+![Dashboard Demo]("images/overview-dashboard.png")
 
 
 ## 🛠️ Tools Used
